@@ -2,8 +2,6 @@
 
 Grout is the revolutionary, bleeding-edge🩸, blazingly slow⚡️, Python Powered 🐍🤮, programming language that will *not* change the way you code forever!
 
-Why is it called Grout? It's because even though it exists, almost no one knows what it is or what it does! 🤷‍♂️
-
 ## Features 🚀
 
 - **Blazingly Slow ⚡️**: With performance that rivals not writing code at all, Grout is built for the future.
